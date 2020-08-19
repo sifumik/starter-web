@@ -11,5 +11,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+adding deployment text
 
 ## How to contribute
+
+this is how your can contribute
