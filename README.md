@@ -16,3 +16,7 @@ adding deployment text
 ## How to contribute
 
 this is how your can contribute
+
+
+### Copyright
+Git.Training.
