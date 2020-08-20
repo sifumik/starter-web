@@ -8,7 +8,7 @@ michael michael.x@gmail.com
 # THANKS
 
 thanks to all my students
-
+please leave a review if you love this course
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
