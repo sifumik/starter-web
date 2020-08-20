@@ -9,6 +9,7 @@ this is an example introduction
 
 Sample website with plenty of files for demos
 adding more dummy text for rebasing example
+more changes from my feature branch
 ## Deployment
 
 adding deployment text
